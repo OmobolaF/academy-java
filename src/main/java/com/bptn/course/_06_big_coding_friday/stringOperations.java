@@ -1,4 +1,4 @@
-package com.bptn.course._05_strings;
+package com.bptn.course._06_big_coding_friday;
 
 import java.util.Scanner;
 
@@ -12,7 +12,7 @@ public class stringOperations {
 					
 		//Step 2: assign values to the variable and include the boolean expression
 		int superChoice;
-		int choice;
+		
 		
 		
 		

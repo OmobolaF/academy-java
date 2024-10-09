@@ -28,17 +28,17 @@ public class Car {
 
 		    void printCarDetails() {
 		        this.print();
-		    }
 		    
-		    ("Car{color='" + color +  + brand + price=' + price + '}');
+		    }
 		//private method
 		    private void print() {
-		  System.out.println();
+		  System.out.println("Car(color='" + color + "', brand='" + brand + "', price=" + price + ")");
+		    }
 		    
 
 		
 		}
 
-	}
+	
 
 

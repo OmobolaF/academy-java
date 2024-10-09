@@ -68,6 +68,8 @@ public class Phone {
 			myObj1.makePhoneCall();
 			myObj1.sendTextMessage();
 			
+			System.out.println(myObj1);
+			
 	}
 
 }

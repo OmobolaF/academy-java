@@ -17,5 +17,6 @@ public class DriversTest {
         } else {
             System.out.println("Sorry, you need to be older to get a driver's license.");
         }
+        scan.close();
     }
 }
