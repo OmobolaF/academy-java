@@ -1,4 +1,4 @@
-package com.bptn.course._test;
+package com.bptn.course._22_test;
 
 public class Car {
 
